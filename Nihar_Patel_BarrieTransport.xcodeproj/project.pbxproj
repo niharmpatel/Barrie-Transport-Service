@@ -13,6 +13,7 @@
 		13BDC4BB2385D28600158E16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13BDC4B92385D28600158E16 /* Main.storyboard */; };
 		13BDC4BD2385D28700158E16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13BDC4BC2385D28700158E16 /* Assets.xcassets */; };
 		13BDC4C02385D28700158E16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13BDC4BE2385D28700158E16 /* LaunchScreen.storyboard */; };
+		13BDC4C82385E05E00158E16 /* NP_BTS_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BDC4C72385E05E00158E16 /* NP_BTS_Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		13BDC4BC2385D28700158E16 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13BDC4BF2385D28700158E16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		13BDC4C12385D28700158E16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13BDC4C72385E05E00158E16 /* NP_BTS_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NP_BTS_Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				13BDC4BC2385D28700158E16 /* Assets.xcassets */,
 				13BDC4BE2385D28700158E16 /* LaunchScreen.storyboard */,
 				13BDC4C12385D28700158E16 /* Info.plist */,
+				13BDC4C72385E05E00158E16 /* NP_BTS_Model.swift */,
 			);
 			path = Nihar_Patel_BarrieTransport;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				13BDC4B82385D28600158E16 /* ViewController.swift in Sources */,
 				13BDC4B42385D28600158E16 /* AppDelegate.swift in Sources */,
 				13BDC4B62385D28600158E16 /* SceneDelegate.swift in Sources */,
+				13BDC4C82385E05E00158E16 /* NP_BTS_Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
